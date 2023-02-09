@@ -9,3 +9,4 @@
 Running npm start will spin up a server on port 5000
 
 ## Home View
+![Home-View] (./diagram.png)
