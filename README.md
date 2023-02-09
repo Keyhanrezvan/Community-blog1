@@ -13,3 +13,7 @@ Running npm start will spin up a server on port 5000
 
 ## Visual Hierarchy of react components
 ![Home-View](./diagram.png)
+
+## Built with:
+
+Techology: React, bootstrap, html, css
